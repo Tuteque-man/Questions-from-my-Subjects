@@ -1,2 +1,15 @@
-<img width="704" height="536" alt="image" src="https://github.com/user-attachments/assets/c800aba4-8553-4404-af83-1d7b84b9c3f4" />
-A curated collection of technical questions and solutions covering key topics in Networking, Operating Systems, and Systems Analysis. Built using Python, this project serves as a practical study tool and knowledge base for students and professionals seeking to deepen their understanding of system-level concepts.
+# Questions from my Subject
+
+![Project Screenshot](https://github.com/user-attachments/assets/c800aba4-8553-4404-af83-1d7b84b9c3f4)
+
+A curated collection of technical questions and Python-based solutions focused on:
+
+- 🧠 **Networking**
+- 💻 **Operating Systems**
+- 📊 **Systems Analysis**
+
+This project serves as a practical study companion and knowledge base for learners and professionals seeking deeper understanding of essential system-level concepts.
+
+---
+
+🎯 Built for clarity, exploration, and future expansion.

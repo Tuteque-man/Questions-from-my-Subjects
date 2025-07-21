@@ -1,6 +1,7 @@
 # Questions from my Subject
 
-![Project Screenshot](https://github.com/user-attachments/assets/c800aba4-8553-4404-af83-1d7b84b9c3f4)
+<img src="https://github.com/user-attachments/assets/c800aba4-8553-4404-af83-1d7b84b9c3f4" alt="Project Screenshot" width="700" />
+<br>
 
 A curated collection of technical questions and Python-based solutions focused on:
 
